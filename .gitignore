@@ -4,3 +4,5 @@ classic-cv/output.png
 classic-cv/walking_output.mp4
 classic-cv/walking.avi
 classic-cv/walking.mp4
+.venv
+.ipynb_checkpoints
